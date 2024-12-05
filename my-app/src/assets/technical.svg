@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4800mm"
+   height="1100mm"
+   viewBox="0 0 4800 1100"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="technical.svg"
+   inkscape:export-filename="tools.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="0.020083245"
+     inkscape:cx="16083.059"
+     inkscape:cy="1892.1246"
+     inkscape:window-width="792"
+     inkscape:window-height="945"
+     inkscape:window-x="321"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:641.151px;line-height:1;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#1affff;fill-opacity:1;stroke:#000000;stroke-width:30.3835;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="105.21829"
+       y="725.85651"
+       id="text44"><tspan
+         id="tspan44"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#1affff;fill-opacity:1;stroke:#000000;stroke-width:30.3835;stroke-dasharray:none;stroke-opacity:1"
+         x="105.21829"
+         y="725.85651">Technical Skills</tspan></text>
+  </g>
+</svg>

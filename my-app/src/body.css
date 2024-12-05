@@ -1,0 +1,60 @@
+
+.window {
+    display: flexbox;
+    
+    background-color: rgba(210, 192, 192, 0);
+    color: rgb(18, 18, 18);
+    margin: 0 1.5rem;
+    padding: 1rem;
+    border-radius: 20px;
+    margin: 20px 20px ;
+    min-width: 14rem;
+    max-width: 16rem;
+    border: black 2px solid ;
+    
+    box-shadow: 0 0 12px rgba(7, 7, 7, 0.792);
+   
+
+}
+
+
+.window-img {
+    width: 8rem;
+    
+}
+
+
+.window-tool {
+    width: 2rem;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 0 1px;
+    margin: 3px;
+
+}
+
+.info-group {
+    display: grid;
+    justify-content: center;
+    
+   
+}
+
+
+
+
+.all-tools {
+    display: flex;
+    align-items: center;
+    background-color: rgb(254, 254, 254);
+    color: black;
+    width: 12rem;    
+    border-radius: 5px;
+    box-shadow: 0 0 12px rgba(39, 130, 227, 0.912);
+    margin: 5px;
+}
+.all-tools:hover{
+    background-color: aqua;
+    transition: 1s;
+    border-radius: 8px;
+}
